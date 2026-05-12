@@ -1,0 +1,13 @@
+Topological order for AUK Software Engineering courses
+Each prerequisite appears before the course that depends on it.
+
+1. SDT 100: Principles of Programming [with Java]
+2. SDT 101: Object-Oriented Programming and Data Structures
+3. SDT 213: Introduction to Software Engineering
+4. SDT 208: Fundamentals of Backend Development with AI
+5. SDT 305: Principles of Database Management
+6. SDT 315: Advanced Database Technologies
+7. SDT 202: Design and Analysis of Data Structures and Algorithms
+8. SDT 406: Software Analysis and Design
+9. SDT 312: Computer Networks and Information Security
+10. SDT 316: Cloud and DevOps Fundamentals

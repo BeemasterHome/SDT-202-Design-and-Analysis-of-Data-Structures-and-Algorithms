@@ -1,0 +1,14 @@
+# AUK Software Engineering course prerequisite graph
+# Format: prerequisite -> course
+# A line without -> declares a course with no prerequisite inside this selected set.
+SDT 312: Computer Networks and Information Security
+SDT 100: Principles of Programming [with Java] -> SDT 101: Object-Oriented Programming and Data Structures
+SDT 101: Object-Oriented Programming and Data Structures -> SDT 202: Design and Analysis of Data Structures and Algorithms
+SDT 101: Object-Oriented Programming and Data Structures -> SDT 305: Principles of Database Management
+SDT 101: Object-Oriented Programming and Data Structures -> SDT 208: Fundamentals of Backend Development with AI
+SDT 101: Object-Oriented Programming and Data Structures -> SDT 213: Introduction to Software Engineering
+SDT 305: Principles of Database Management -> SDT 315: Advanced Database Technologies
+SDT 208: Fundamentals of Backend Development with AI -> SDT 316: Cloud and DevOps Fundamentals
+SDT 312: Computer Networks and Information Security -> SDT 316: Cloud and DevOps Fundamentals
+SDT 213: Introduction to Software Engineering -> SDT 406: Software Analysis and Design
+SDT 202: Design and Analysis of Data Structures and Algorithms -> SDT 406: Software Analysis and Design
